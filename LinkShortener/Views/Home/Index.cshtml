@@ -1,0 +1,32 @@
+﻿@model List<Link>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="padding-top: 20px; padding-bottom: 20px;">
+    @using (Html.BeginForm("AddLink", "Home", FormMethod.Post))
+    {
+        <p>Enter your link: @Html.TextBox("fullLink") &nbsp; <input type="submit" value="Link" /></p>
+
+    }
+</div>
+<div>
+    <table>
+        <tr>
+            <td style="width: 300px;">Original Link</td>
+            <td style="width: 300px;">Short Link</td>
+            <td style="width: 100px;">Click</td>
+        </tr>
+        @foreach(var link in Model)
+        {
+            <tr>
+                <td><a href="@link.OriginalLink">@link.OriginalLink</a></td>
+                <td><a href="@ViewBag.BaseUrl@link.ShortLink">@ViewBag.BaseUrl@link.ShortLink</a></td>
+                <td>@link.ClickCount</td>
+            </tr>
+        }
+    </table>
+</div>
+
+

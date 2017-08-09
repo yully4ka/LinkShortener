@@ -1,0 +1,20 @@
+D:\Code\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.deps.json
+D:\Code\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.runtimeconfig.json
+D:\Code\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.runtimeconfig.dev.json
+D:\Code\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.dll
+D:\Code\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.pdb
+D:\Code\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.csprojResolveAssemblyReference.cache
+D:\Code\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Code\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.AssemblyInfo.cs
+D:\Code\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.dll
+D:\Code\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.pdb
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.deps.json
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.runtimeconfig.json
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.runtimeconfig.dev.json
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.dll
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\bin\Debug\netcoreapp1.1\LinkShortener.pdb
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.csprojResolveAssemblyReference.cache
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.AssemblyInfo.cs
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.dll
+C:\Users\vic\Documents\Visual Studio 2017\Projects\LinkShortener\LinkShortener\LinkShortener\obj\Debug\netcoreapp1.1\LinkShortener.pdb
